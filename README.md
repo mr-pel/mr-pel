@@ -21,7 +21,7 @@
 
 ### My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=it-n00b-pel&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mr-pel&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ###
 <div>
